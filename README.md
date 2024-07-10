@@ -27,3 +27,7 @@ Install the requirements using the following command:
 
 pip install -r requirements.txt
 
+the run the code using the following command:
+
+python main.py or run jupyter notebook.
+
