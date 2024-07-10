@@ -1,0 +1,1013 @@
+{
+    "image_path": "/Users/shahriyar/Desktop/programming/Python/OCR/images/Iceland.jpg",
+    "recognized_text": [
+        {
+            "Detected text": "JOKULSARLON",
+            "Bounding box": [
+                [
+                    695,
+                    35
+                ],
+                [
+                    818,
+                    35
+                ],
+                [
+                    818,
+                    64
+                ],
+                [
+                    695,
+                    64
+                ]
+            ]
+        },
+        {
+            "Detected text": "VEGABREF",
+            "Bounding box": [
+                [
+                    157,
+                    134
+                ],
+                [
+                    286,
+                    134
+                ],
+                [
+                    286,
+                    163
+                ],
+                [
+                    157,
+                    163
+                ]
+            ]
+        },
+        {
+            "Detected text": "ISLAND",
+            "Bounding box": [
+                [
+                    411,
+                    137
+                ],
+                [
+                    532,
+                    137
+                ],
+                [
+                    532,
+                    169
+                ],
+                [
+                    411,
+                    169
+                ]
+            ]
+        },
+        {
+            "Detected text": "ICELAND",
+            "Bounding box": [
+                [
+                    556,
+                    142
+                ],
+                [
+                    700,
+                    142
+                ],
+                [
+                    700,
+                    168
+                ],
+                [
+                    556,
+                    168
+                ]
+            ]
+        },
+        {
+            "Detected text": "ISLANDE",
+            "Bounding box": [
+                [
+                    726,
+                    144
+                ],
+                [
+                    862,
+                    144
+                ],
+                [
+                    862,
+                    170
+                ],
+                [
+                    726,
+                    170
+                ]
+            ]
+        },
+        {
+            "Detected text": "PASSPORT",
+            "Bounding box": [
+                [
+                    150,
+                    164
+                ],
+                [
+                    276,
+                    164
+                ],
+                [
+                    276,
+                    188
+                ],
+                [
+                    150,
+                    188
+                ]
+            ]
+        },
+        {
+            "Detected text": "Tegund / Type / Type",
+            "Bounding box": [
+                [
+                    414,
+                    171
+                ],
+                [
+                    509,
+                    171
+                ],
+                [
+                    509,
+                    190
+                ],
+                [
+                    414,
+                    190
+                ]
+            ]
+        },
+        {
+            "Detected text": "Kool / Code  Code",
+            "Bounding box": [
+                [
+                    535,
+                    175
+                ],
+                [
+                    623,
+                    175
+                ],
+                [
+                    623,
+                    189
+                ],
+                [
+                    535,
+                    189
+                ]
+            ]
+        },
+        {
+            "Detected text": "PASSEPORT",
+            "Bounding box": [
+                [
+                    145,
+                    190
+                ],
+                [
+                    288,
+                    190
+                ],
+                [
+                    288,
+                    218
+                ],
+                [
+                    145,
+                    218
+                ]
+            ]
+        },
+        {
+            "Detected text": "PA",
+            "Bounding box": [
+                [
+                    417,
+                    189
+                ],
+                [
+                    445,
+                    189
+                ],
+                [
+                    445,
+                    209
+                ],
+                [
+                    417,
+                    209
+                ]
+            ]
+        },
+        {
+            "Detected text": "ISL",
+            "Bounding box": [
+                [
+                    539,
+                    191
+                ],
+                [
+                    571,
+                    191
+                ],
+                [
+                    571,
+                    211
+                ],
+                [
+                    539,
+                    211
+                ]
+            ]
+        },
+        {
+            "Detected text": "A3536444",
+            "Bounding box": [
+                [
+                    655,
+                    191
+                ],
+                [
+                    739,
+                    191
+                ],
+                [
+                    739,
+                    211
+                ],
+                [
+                    655,
+                    211
+                ]
+            ]
+        },
+        {
+            "Detected text": "Nom",
+            "Bounding box": [
+                [
+                    513,
+                    217
+                ],
+                [
+                    539,
+                    217
+                ],
+                [
+                    539,
+                    229
+                ],
+                [
+                    513,
+                    229
+                ]
+            ]
+        },
+        {
+            "Detected text": "AVARSDOTTIR",
+            "Bounding box": [
+                [
+                    414,
+                    228
+                ],
+                [
+                    552,
+                    228
+                ],
+                [
+                    552,
+                    254
+                ],
+                [
+                    414,
+                    254
+                ]
+            ]
+        },
+        {
+            "Detected text": "Fielnnoln (Oiven",
+            "Bounding box": [
+                [
+                    411,
+                    258
+                ],
+                [
+                    495,
+                    258
+                ],
+                [
+                    495,
+                    272
+                ],
+                [
+                    411,
+                    272
+                ]
+            ]
+        },
+        {
+            "Detected text": "Frepone",
+            "Bounding box": [
+                [
+                    528,
+                    259
+                ],
+                [
+                    569,
+                    259
+                ],
+                [
+                    569,
+                    275
+                ],
+                [
+                    528,
+                    275
+                ]
+            ]
+        },
+        {
+            "Detected text": "PURIDUR OSP",
+            "Bounding box": [
+                [
+                    413,
+                    272
+                ],
+                [
+                    544,
+                    272
+                ],
+                [
+                    544,
+                    300
+                ],
+                [
+                    413,
+                    300
+                ]
+            ]
+        },
+        {
+            "Detected text": "pjooernl",
+            "Bounding box": [
+                [
+                    409,
+                    303
+                ],
+                [
+                    451,
+                    303
+                ],
+                [
+                    451,
+                    317
+                ],
+                [
+                    409,
+                    317
+                ]
+            ]
+        },
+        {
+            "Detected text": "NallonaII",
+            "Bounding box": [
+                [
+                    457,
+                    303
+                ],
+                [
+                    505,
+                    303
+                ],
+                [
+                    505,
+                    317
+                ],
+                [
+                    457,
+                    317
+                ]
+            ]
+        },
+        {
+            "Detected text": "Nattod",
+            "Bounding box": [
+                [
+                    517,
+                    305
+                ],
+                [
+                    553,
+                    305
+                ],
+                [
+                    553,
+                    319
+                ],
+                [
+                    517,
+                    319
+                ]
+            ]
+        },
+        {
+            "Detected text": "H10/ Helehe/ Tallla",
+            "Bounding box": [
+                [
+                    869,
+                    307
+                ],
+                [
+                    961,
+                    307
+                ],
+                [
+                    961,
+                    321
+                ],
+                [
+                    869,
+                    321
+                ]
+            ]
+        },
+        {
+            "Detected text": "ISLENSKT",
+            "Bounding box": [
+                [
+                    411,
+                    321
+                ],
+                [
+                    506,
+                    321
+                ],
+                [
+                    506,
+                    349
+                ],
+                [
+                    411,
+                    349
+                ]
+            ]
+        },
+        {
+            "Detected text": "ICELANDIC / ISLANDAISE",
+            "Bounding box": [
+                [
+                    514,
+                    324
+                ],
+                [
+                    736,
+                    324
+                ],
+                [
+                    736,
+                    348
+                ],
+                [
+                    514,
+                    348
+                ]
+            ]
+        },
+        {
+            "Detected text": "172 CM",
+            "Bounding box": [
+                [
+                    900,
+                    328
+                ],
+                [
+                    968,
+                    328
+                ],
+                [
+                    968,
+                    352
+                ],
+                [
+                    900,
+                    352
+                ]
+            ]
+        },
+        {
+            "Detected text": "Fa Olnat",
+            "Bounding box": [
+                [
+                    407,
+                    349
+                ],
+                [
+                    447,
+                    349
+                ],
+                [
+                    447,
+                    363
+                ],
+                [
+                    407,
+                    363
+                ]
+            ]
+        },
+        {
+            "Detected text": "Ianal Id. No /Na dId per",
+            "Bounding box": [
+                [
+                    827,
+                    353
+                ],
+                [
+                    935,
+                    353
+                ],
+                [
+                    935,
+                    369
+                ],
+                [
+                    827,
+                    369
+                ]
+            ]
+        },
+        {
+            "Detected text": "12 DES IDEC 1912",
+            "Bounding box": [
+                [
+                    412,
+                    364
+                ],
+                [
+                    576,
+                    364
+                ],
+                [
+                    576,
+                    392
+                ],
+                [
+                    412,
+                    392
+                ]
+            ]
+        },
+        {
+            "Detected text": "121212-1239",
+            "Bounding box": [
+                [
+                    860,
+                    370
+                ],
+                [
+                    972,
+                    370
+                ],
+                [
+                    972,
+                    394
+                ],
+                [
+                    860,
+                    394
+                ]
+            ]
+        },
+        {
+            "Detected text": "Faln",
+            "Bounding box": [
+                [
+                    407,
+                    397
+                ],
+                [
+                    439,
+                    397
+                ],
+                [
+                    439,
+                    411
+                ],
+                [
+                    407,
+                    411
+                ]
+            ]
+        },
+        {
+            "Detected text": "Feca",
+            "Bounding box": [
+                [
+                    489,
+                    397
+                ],
+                [
+                    517,
+                    397
+                ],
+                [
+                    517,
+                    411
+                ],
+                [
+                    489,
+                    411
+                ]
+            ]
+        },
+        {
+            "Detected text": "Enta",
+            "Bounding box": [
+                [
+                    531,
+                    397
+                ],
+                [
+                    559,
+                    397
+                ],
+                [
+                    559,
+                    411
+                ],
+                [
+                    531,
+                    411
+                ]
+            ]
+        },
+        {
+            "Detected text": "Kyn5",
+            "Bounding box": [
+                [
+                    897,
+                    399
+                ],
+                [
+                    933,
+                    399
+                ],
+                [
+                    933,
+                    413
+                ],
+                [
+                    897,
+                    413
+                ]
+            ]
+        },
+        {
+            "Detected text": "ISL: ISLAND",
+            "Bounding box": [
+                [
+                    410,
+                    414
+                ],
+                [
+                    522,
+                    414
+                ],
+                [
+                    522,
+                    438
+                ],
+                [
+                    410,
+                    438
+                ]
+            ]
+        },
+        {
+            "Detected text": "Uteafudseur ( Dete",
+            "Bounding box": [
+                [
+                    405,
+                    443
+                ],
+                [
+                    501,
+                    443
+                ],
+                [
+                    501,
+                    459
+                ],
+                [
+                    405,
+                    459
+                ]
+            ]
+        },
+        {
+            "Detected text": "Authorlly",
+            "Bounding box": [
+                [
+                    723,
+                    445
+                ],
+                [
+                    775,
+                    445
+                ],
+                [
+                    775,
+                    459
+                ],
+                [
+                    723,
+                    459
+                ]
+            ]
+        },
+        {
+            "Detected text": "CAH",
+            "Bounding box": [
+                [
+                    943,
+                    447
+                ],
+                [
+                    973,
+                    447
+                ],
+                [
+                    973,
+                    461
+                ],
+                [
+                    943,
+                    461
+                ]
+            ]
+        },
+        {
+            "Detected text": "12 MAR MMAR 2021",
+            "Bounding box": [
+                [
+                    410,
+                    462
+                ],
+                [
+                    580,
+                    462
+                ],
+                [
+                    580,
+                    486
+                ],
+                [
+                    410,
+                    486
+                ]
+            ]
+        },
+        {
+            "Detected text": "PJODSKRA ISLANDS",
+            "Bounding box": [
+                [
+                    674,
+                    460
+                ],
+                [
+                    862,
+                    460
+                ],
+                [
+                    862,
+                    486
+                ],
+                [
+                    674,
+                    486
+                ]
+            ]
+        },
+        {
+            "Detected text": "203030",
+            "Bounding box": [
+                [
+                    912,
+                    462
+                ],
+                [
+                    980,
+                    462
+                ],
+                [
+                    980,
+                    486
+                ],
+                [
+                    912,
+                    486
+                ]
+            ]
+        },
+        {
+            "Detected text": "Fcliur Ur clld (Date",
+            "Bounding box": [
+                [
+                    405,
+                    491
+                ],
+                [
+                    503,
+                    491
+                ],
+                [
+                    503,
+                    507
+                ],
+                [
+                    405,
+                    507
+                ]
+            ]
+        },
+        {
+            "Detected text": "DAt",
+            "Bounding box": [
+                [
+                    549,
+                    493
+                ],
+                [
+                    581,
+                    493
+                ],
+                [
+                    581,
+                    507
+                ],
+                [
+                    549,
+                    507
+                ]
+            ]
+        },
+        {
+            "Detected text": "Undinkrift handhala] Holder s",
+            "Bounding box": [
+                [
+                    669,
+                    491
+                ],
+                [
+                    823,
+                    491
+                ],
+                [
+                    823,
+                    509
+                ],
+                [
+                    669,
+                    509
+                ]
+            ]
+        },
+        {
+            "Detected text": "Shenatuie du tutulalr",
+            "Bounding box": [
+                [
+                    873,
+                    495
+                ],
+                [
+                    977,
+                    495
+                ],
+                [
+                    977,
+                    507
+                ],
+                [
+                    873,
+                    507
+                ]
+            ]
+        },
+        {
+            "Detected text": "10 MAR MMAR 2031",
+            "Bounding box": [
+                [
+                    408,
+                    510
+                ],
+                [
+                    578,
+                    510
+                ],
+                [
+                    578,
+                    534
+                ],
+                [
+                    408,
+                    534
+                ]
+            ]
+        },
+        {
+            "Detected text": "Purdu  Dp",
+            "Bounding box": [
+                [
+                    730,
+                    496
+                ],
+                [
+                    935,
+                    496
+                ],
+                [
+                    935,
+                    561
+                ],
+                [
+                    730,
+                    561
+                ]
+            ]
+        },
+        {
+            "Detected text": "PAISLAEVARSDOTTIRKKTHURIDURKOESP<<<KK<KK<<<<",
+            "Bounding box": [
+                [
+                    124,
+                    612
+                ],
+                [
+                    1002,
+                    612
+                ],
+                [
+                    1002,
+                    644
+                ],
+                [
+                    124,
+                    644
+                ]
+            ]
+        },
+        {
+            "Detected text": "A3536444<71SL1212123<3103108121212<1239<<<68",
+            "Bounding box": [
+                [
+                    113,
+                    661
+                ],
+                [
+                    1009,
+                    661
+                ],
+                [
+                    1009,
+                    699
+                ],
+                [
+                    113,
+                    699
+                ]
+            ]
+        },
+        {
+            "Detected text": "Apiapoti",
+            "Bounding box": [
+                [
+                    707,
+                    175
+                ],
+                [
+                    752,
+                    180
+                ],
+                [
+                    751,
+                    190
+                ],
+                [
+                    706,
+                    185
+                ]
+            ]
+        }
+    ]
+}

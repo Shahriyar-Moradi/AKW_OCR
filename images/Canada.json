@@ -1,0 +1,887 @@
+{
+    "image_path": "images/Canada.jpg",
+    "recognized_texts": [
+        {
+            "Detected text": "PASSPORT",
+            "Bounding box": [
+                [
+                    113,
+                    211
+                ],
+                [
+                    197,
+                    211
+                ],
+                [
+                    197,
+                    231
+                ],
+                [
+                    113,
+                    231
+                ]
+            ]
+        },
+        {
+            "Detected text": "PASSEPORT",
+            "Bounding box": [
+                [
+                    107,
+                    226
+                ],
+                [
+                    202,
+                    226
+                ],
+                [
+                    202,
+                    253
+                ],
+                [
+                    107,
+                    253
+                ]
+            ]
+        },
+        {
+            "Detected text": "CANADA",
+            "Bounding box": [
+                [
+                    340,
+                    217
+                ],
+                [
+                    489,
+                    217
+                ],
+                [
+                    489,
+                    255
+                ],
+                [
+                    340,
+                    255
+                ]
+            ]
+        },
+        {
+            "Detected text": "TypalType",
+            "Bounding box": [
+                [
+                    262,
+                    251
+                ],
+                [
+                    317,
+                    251
+                ],
+                [
+                    317,
+                    269
+                ],
+                [
+                    262,
+                    269
+                ]
+            ]
+        },
+        {
+            "Detected text": "Issulng CountrylPays Umatteur",
+            "Bounding box": [
+                [
+                    345,
+                    256
+                ],
+                [
+                    497,
+                    256
+                ],
+                [
+                    497,
+                    275
+                ],
+                [
+                    345,
+                    275
+                ]
+            ]
+        },
+        {
+            "Detected text": "Passpor No NN\"",
+            "Bounding box": [
+                [
+                    550,
+                    262
+                ],
+                [
+                    629,
+                    262
+                ],
+                [
+                    629,
+                    281
+                ],
+                [
+                    550,
+                    281
+                ]
+            ]
+        },
+        {
+            "Detected text": "CAN",
+            "Bounding box": [
+                [
+                    347,
+                    269
+                ],
+                [
+                    387,
+                    269
+                ],
+                [
+                    387,
+                    289
+                ],
+                [
+                    347,
+                    289
+                ]
+            ]
+        },
+        {
+            "Detected text": "de pusseport",
+            "Bounding box": [
+                [
+                    626,
+                    267
+                ],
+                [
+                    689,
+                    267
+                ],
+                [
+                    689,
+                    282
+                ],
+                [
+                    626,
+                    282
+                ]
+            ]
+        },
+        {
+            "Detected text": "Sumame/Nom",
+            "Bounding box": [
+                [
+                    260,
+                    284
+                ],
+                [
+                    335,
+                    284
+                ],
+                [
+                    335,
+                    302
+                ],
+                [
+                    260,
+                    302
+                ]
+            ]
+        },
+        {
+            "Detected text": "AE021527",
+            "Bounding box": [
+                [
+                    554,
+                    276
+                ],
+                [
+                    682,
+                    276
+                ],
+                [
+                    682,
+                    304
+                ],
+                [
+                    554,
+                    304
+                ]
+            ]
+        },
+        {
+            "Detected text": "Murphy",
+            "Bounding box": [
+                [
+                    261,
+                    294
+                ],
+                [
+                    338,
+                    294
+                ],
+                [
+                    338,
+                    321
+                ],
+                [
+                    261,
+                    321
+                ]
+            ]
+        },
+        {
+            "Detected text": "Given",
+            "Bounding box": [
+                [
+                    259,
+                    319
+                ],
+                [
+                    293,
+                    319
+                ],
+                [
+                    293,
+                    333
+                ],
+                [
+                    259,
+                    333
+                ]
+            ]
+        },
+        {
+            "Detected text": "trenoms",
+            "Bounding box": [
+                [
+                    332,
+                    320
+                ],
+                [
+                    373,
+                    320
+                ],
+                [
+                    373,
+                    337
+                ],
+                [
+                    332,
+                    337
+                ]
+            ]
+        },
+        {
+            "Detected text": "CHRISTINE",
+            "Bounding box": [
+                [
+                    259,
+                    327
+                ],
+                [
+                    372,
+                    327
+                ],
+                [
+                    372,
+                    356
+                ],
+                [
+                    259,
+                    356
+                ]
+            ]
+        },
+        {
+            "Detected text": "EDITH",
+            "Bounding box": [
+                [
+                    380,
+                    332
+                ],
+                [
+                    446,
+                    332
+                ],
+                [
+                    446,
+                    356
+                ],
+                [
+                    380,
+                    356
+                ]
+            ]
+        },
+        {
+            "Detected text": "Natlonelityi Natonallta",
+            "Bounding box": [
+                [
+                    258,
+                    350
+                ],
+                [
+                    367,
+                    350
+                ],
+                [
+                    367,
+                    370
+                ],
+                [
+                    258,
+                    370
+                ]
+            ]
+        },
+        {
+            "Detected text": "canADIAN/CANADIENNE",
+            "Bounding box": [
+                [
+                    260,
+                    364
+                ],
+                [
+                    492,
+                    364
+                ],
+                [
+                    492,
+                    392
+                ],
+                [
+                    260,
+                    392
+                ]
+            ]
+        },
+        {
+            "Detected text": "Data ot binh Data du nale",
+            "Bounding box": [
+                [
+                    257,
+                    385
+                ],
+                [
+                    385,
+                    385
+                ],
+                [
+                    385,
+                    403
+                ],
+                [
+                    257,
+                    403
+                ]
+            ]
+        },
+        {
+            "Detected text": "07",
+            "Bounding box": [
+                [
+                    259,
+                    397
+                ],
+                [
+                    287,
+                    397
+                ],
+                [
+                    287,
+                    417
+                ],
+                [
+                    259,
+                    417
+                ]
+            ]
+        },
+        {
+            "Detected text": "nov",
+            "Bounding box": [
+                [
+                    295,
+                    399
+                ],
+                [
+                    335,
+                    399
+                ],
+                [
+                    335,
+                    419
+                ],
+                [
+                    295,
+                    419
+                ]
+            ]
+        },
+        {
+            "Detected text": "inov",
+            "Bounding box": [
+                [
+                    347,
+                    401
+                ],
+                [
+                    397,
+                    401
+                ],
+                [
+                    397,
+                    421
+                ],
+                [
+                    347,
+                    421
+                ]
+            ]
+        },
+        {
+            "Detected text": "59",
+            "Bounding box": [
+                [
+                    416,
+                    400
+                ],
+                [
+                    444,
+                    400
+                ],
+                [
+                    444,
+                    424
+                ],
+                [
+                    416,
+                    424
+                ]
+            ]
+        },
+        {
+            "Detected text": "SarSexe",
+            "Bounding box": [
+                [
+                    257,
+                    419
+                ],
+                [
+                    309,
+                    419
+                ],
+                [
+                    309,
+                    433
+                ],
+                [
+                    257,
+                    433
+                ]
+            ]
+        },
+        {
+            "Detected text": "Place af blrth Leude",
+            "Bounding box": [
+                [
+                    325,
+                    421
+                ],
+                [
+                    431,
+                    421
+                ],
+                [
+                    431,
+                    437
+                ],
+                [
+                    325,
+                    437
+                ]
+            ]
+        },
+        {
+            "Detected text": "Issance",
+            "Bounding box": [
+                [
+                    445,
+                    427
+                ],
+                [
+                    485,
+                    427
+                ],
+                [
+                    485,
+                    439
+                ],
+                [
+                    445,
+                    439
+                ]
+            ]
+        },
+        {
+            "Detected text": "ELLIOTT",
+            "Bounding box": [
+                [
+                    326,
+                    432
+                ],
+                [
+                    416,
+                    432
+                ],
+                [
+                    416,
+                    456
+                ],
+                [
+                    326,
+                    456
+                ]
+            ]
+        },
+        {
+            "Detected text": "LAKE",
+            "Bounding box": [
+                [
+                    422,
+                    434
+                ],
+                [
+                    476,
+                    434
+                ],
+                [
+                    476,
+                    458
+                ],
+                [
+                    422,
+                    458
+                ]
+            ]
+        },
+        {
+            "Detected text": "Can",
+            "Bounding box": [
+                [
+                    482,
+                    436
+                ],
+                [
+                    524,
+                    436
+                ],
+                [
+                    524,
+                    460
+                ],
+                [
+                    482,
+                    460
+                ]
+            ]
+        },
+        {
+            "Detected text": "Date of Iaque Date de dullvrena",
+            "Bounding box": [
+                [
+                    257,
+                    452
+                ],
+                [
+                    415,
+                    452
+                ],
+                [
+                    415,
+                    471
+                ],
+                [
+                    257,
+                    471
+                ]
+            ]
+        },
+        {
+            "Detected text": "26",
+            "Bounding box": [
+                [
+                    256,
+                    464
+                ],
+                [
+                    288,
+                    464
+                ],
+                [
+                    288,
+                    488
+                ],
+                [
+                    256,
+                    488
+                ]
+            ]
+        },
+        {
+            "Detected text": "Jan",
+            "Bounding box": [
+                [
+                    294,
+                    466
+                ],
+                [
+                    336,
+                    466
+                ],
+                [
+                    336,
+                    490
+                ],
+                [
+                    294,
+                    490
+                ]
+            ]
+        },
+        {
+            "Detected text": "Jan",
+            "Bounding box": [
+                [
+                    357,
+                    469
+                ],
+                [
+                    395,
+                    469
+                ],
+                [
+                    395,
+                    489
+                ],
+                [
+                    357,
+                    489
+                ]
+            ]
+        },
+        {
+            "Detected text": "18",
+            "Bounding box": [
+                [
+                    416,
+                    468
+                ],
+                [
+                    444,
+                    468
+                ],
+                [
+                    444,
+                    492
+                ],
+                [
+                    416,
+                    492
+                ]
+            ]
+        },
+        {
+            "Detected text": "Date of explryiData d explrallon",
+            "Bounding box": [
+                [
+                    255,
+                    487
+                ],
+                [
+                    415,
+                    487
+                ],
+                [
+                    415,
+                    507
+                ],
+                [
+                    255,
+                    507
+                ]
+            ]
+        },
+        {
+            "Detected text": "26",
+            "Bounding box": [
+                [
+                    257,
+                    501
+                ],
+                [
+                    285,
+                    501
+                ],
+                [
+                    285,
+                    521
+                ],
+                [
+                    257,
+                    521
+                ]
+            ]
+        },
+        {
+            "Detected text": "Jan",
+            "Bounding box": [
+                [
+                    293,
+                    503
+                ],
+                [
+                    335,
+                    503
+                ],
+                [
+                    335,
+                    523
+                ],
+                [
+                    293,
+                    523
+                ]
+            ]
+        },
+        {
+            "Detected text": "JaN",
+            "Bounding box": [
+                [
+                    354,
+                    502
+                ],
+                [
+                    396,
+                    502
+                ],
+                [
+                    396,
+                    526
+                ],
+                [
+                    354,
+                    526
+                ]
+            ]
+        },
+        {
+            "Detected text": "28",
+            "Bounding box": [
+                [
+                    415,
+                    505
+                ],
+                [
+                    445,
+                    505
+                ],
+                [
+                    445,
+                    525
+                ],
+                [
+                    415,
+                    525
+                ]
+            ]
+        },
+        {
+            "Detected text": "Issuing AuthodtylAutorta de dullvtende",
+            "Bounding box": [
+                [
+                    255,
+                    525
+                ],
+                [
+                    451,
+                    525
+                ],
+                [
+                    451,
+                    544
+                ],
+                [
+                    255,
+                    544
+                ]
+            ]
+        },
+        {
+            "Detected text": "GATINEAU",
+            "Bounding box": [
+                [
+                    254,
+                    536
+                ],
+                [
+                    360,
+                    536
+                ],
+                [
+                    360,
+                    560
+                ],
+                [
+                    254,
+                    560
+                ]
+            ]
+        },
+        {
+            "Detected text": "PcAnMURPHY<<CHRISTINE<EDITH<<<<<<<<<<<<<<<<",
+            "Bounding box": [
+                [
+                    40,
+                    585
+                ],
+                [
+                    707,
+                    585
+                ],
+                [
+                    707,
+                    624
+                ],
+                [
+                    40,
+                    624
+                ]
+            ]
+        },
+        {
+            "Detected text": "AE021527<9cAn5911077F2801267<<<<<<<<<<<<<<04",
+            "Bounding box": [
+                [
+                    40,
+                    627
+                ],
+                [
+                    706,
+                    627
+                ],
+                [
+                    706,
+                    660
+                ],
+                [
+                    40,
+                    660
+                ]
+            ]
+        }
+    ]
+}
