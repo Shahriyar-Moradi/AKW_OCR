@@ -118,7 +118,7 @@ plt.imshow(img_rgb)
 plt.axis('off')  # Hide axes
 plt.show()
 
-# Function to calculate accuracy (simple example)
+# Function to calculate accuracy 
 def calculate_accuracy(ground_truth, recognized_text):
     gt_words = ground_truth.split()
     rec_words = recognized_text.split()
